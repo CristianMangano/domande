@@ -8,7 +8,7 @@ typedef struct Esame
 
 // in questo momento il tipo di dato _struct Esame_ non è inizializzato ma solo definito?
 
-/* Per inizializzarlo posso dentro qualche funzione o prima di ogni altra funzione con uno scope globale
+/* Per dichiararlo posso dentro qualche funzione o prima di ogni altra funzione con uno scope globale
 scrivere: "struct Esame esami[20];" oppure "Esami esami[20];" ? */
 
 int main(void) {
